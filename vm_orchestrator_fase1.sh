@@ -5,7 +5,6 @@
 set -e
 
 ### CONFIGURACIÓN ###
-# Ajusta estos valores a tu topología real
 
 # Workers: [OVS_NAME IFACE_UPLINK]
 WORKERS=(
